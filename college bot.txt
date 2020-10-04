@@ -1,0 +1,2 @@
+Colleg echat bot:
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=bd188d2e-15aa-4327-a59c-18d86acbb495&serviceInstanceID=e43afdbd-488e-4a77-a6a6-b358df20648e
